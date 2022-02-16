@@ -13,6 +13,8 @@ sortir les business insights, identifier les anomalies et des opportunités
  - choisir la méthode appropriée de traitement en vue de minimiser l’impact sur l’ensemble 
 
 --------------------------------------------------------------
+https://openclassrooms.com/fr/paths/65/projects/146/assignment
+
 **Prérequis**
 
 Les prérequis pour ce projet sont de connaître au choix les langages R ou Python, en sachant manipuler principalement les Dataframes (natifs en R, ou disponibles par la librairie Pandas en Python). Il vous faudra également connaître les bases de la statistique descriptive (moyenne, médiane, variance, représentations graphiques, tests de corrélation, analyse bivariée, etc.).
